@@ -1,2 +1,1 @@
-TOC_HW4
-=======
+HW4 of Theory-of-Computation in NCKU
